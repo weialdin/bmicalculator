@@ -1,0 +1,16 @@
+.cafe {
+    color: #50C878;
+}
+
+.btn {
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: #50C878;
+    color: white;
+}
+
+.priv a {
+    text-decoration: none;
+}
